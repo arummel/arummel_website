@@ -1,0 +1,27 @@
+---
+title: "Research"
+description: "Research projects"
+---
+
+<!-- {% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %}
+  {% include archive-single.html type="grid" %}
+{% endfor %}
+
+-->
+
+<h2> How does temperature affect complex locomotor processes across levels of biological organization? </h2>
+
+Temperature has an unavoidable effect on virtually all biological processes and is often a critical determinant of biological performance at multiple levels. Muscle links physiology and performance. 
+
+<h3>Bat flight as a model system</h3>
+
+<img src="/images/noctilio_wing.jpg" style="height: 253px; width: 380px; float: right; margin-left: 15px; margin-bottom: 30px; margin-top: 0px">
+
+Bats are the only mammals capable of powered flight and find themselves in a unique thermal environment. Since they are primarily active at night their wings are vulnerable to substantial radiative and conductive heat loss, even in warm ambient conditions. Despite this, bat wing muscles are so poorly insulated as to be clearly visible through the skin, and the distal muscles cool substantially during flight. How do bats maintain flight performance if their flight muscles are consistently cool? Muscle function declines when muscles operate at cool temperatures, which could slow muscle contractile rates and interfere with the flight stroke. 
+
+
+<h3>Ectotherms</h3>
+
+Ectotherms do not maintain body temperatures physiologically and thus are more susceptible to changes in environmental temperature. I am interested in understanding how directional thermal change impacts anoles at subcritical temperatures–how are they adapting to warmer, but not lethal, temperatures? My current work integrates experimental data on the effects of temperature on crested anole locomotor performance and muscle contractile function with transcriptomic data to characterize the nature and mechanism of thermal adaptation in the locomotor system. 

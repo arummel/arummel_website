@@ -1,0 +1,8 @@
+---
+title: "CV"
+description: "link to CV"
+---
+
+<iframe src="/files/Rummel_CV_oct2022.pdf" width="200%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my CV [here](http://arummel.github.io/files/Rummel_CV_oct2022.pdf).

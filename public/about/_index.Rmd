@@ -1,0 +1,14 @@
+---
+title: "About"
+description: ""
+---
+
+<img src="/images/field_crested.jpg" style="height: 360px; width: 240px; float: right; margin-left: 15px; margin-bottom: 30px; margin-top: 0px">
+
+I'm a comparative physiologist, currently an NSF Postdoctoral Fellow in the Department of Ecology and Evolutionary Biology at Princeton University. I'm broadly interested in how temperature and ecology affect the physiology and mechanics of animal movement.
+
+My dissertation explored the thermal sensitivity of a complex locomotor behavior, bat flight, at multiple scales. Currently, I'm a postdoc in the [Campbell-Staton Lab](http://www.campbellstaton.com) studying thermal adaptation in the locomotor system of crested anoles in Puerto Rico.  
+
+<h3>Contact</h3>
+
+Email: arummel@princeton.edu
