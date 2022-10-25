@@ -2,10 +2,9 @@
 title: "Publications"
 description: "publications"
 ---
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=iU1wzqQAAAAJ&hl=en&oi=ao) profile
-<br>
---------------------------------------------------------------------------------------------------------------------
-<br>
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=iU1wzqQAAAAJ&hl=en&oi=ao) profile. 
+
+ *** 
 Grider‐Potter, N., **Rummel, A.D.**, 2022. Dietary influences on head and neck ranges of motion in neotropical bats. Journal of Zoology jzo.13011. [https://doi.org/10.1111/jzo.13011](https://doi.org/10.1111/jzo.13011)
 [Download paper here](http://arummel.github.io/files/Grider‐Potter_Rummel_2022_zoology.pdf)
 <br>
