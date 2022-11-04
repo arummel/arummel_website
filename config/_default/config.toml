@@ -28,3 +28,8 @@ googleAnalytics = "G-EE404KHP2D"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
