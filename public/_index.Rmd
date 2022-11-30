@@ -2,6 +2,12 @@
 title: "Andrea Rummel, Ph.D."
 description: "Integrative physiologist and NSF Postdoctoral Fellow in Biology"
 ---
-NSF Postdoctoral Fellow in Biology
 
+I'm a comparative physiologist, currently an NSF Postdoctoral Fellow in the Department of Ecology and Evolutionary Biology at Princeton University. I'm broadly interested in how temperature and ecology affect the physiology and mechanics of animal movement.
+
+My dissertation explored the thermal sensitivity of a complex locomotor behavior, bat flight, at multiple scales. Currently, I'm a postdoc in the [Campbell-Staton Lab](http://www.campbellstaton.com) studying thermal adaptation in the locomotor system of crested anoles in Puerto Rico.  
+
+<h3>Contact</h3>
+
+Email: arummel@princeton.edu
 

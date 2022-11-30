@@ -1,0 +1,10 @@
+README
+
+CHANGE ASPECTS OF THEME
+
+using arummel_website/assets/css/compiled/main.css
+--- changing css files in the themes/blowfish folder will have no effect
+
+CHANGING LANDING PAGE
+
+use arummel_website/layouts/partials/home/*.html

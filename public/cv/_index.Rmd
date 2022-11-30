@@ -3,6 +3,6 @@ title: "CV"
 description: "link to CV"
 ---
 
-<iframe src="/files/Rummel_CV_oct2022.pdf" width="200%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/Rummel_CV_nov2022.pdf" width="300%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-You can download a PDF copy of my CV [here](/files/Rummel_CV_oct2022.pdf).
+You can download a PDF copy of my CV [here](/files/Rummel_CV_nov2022.pdf).
