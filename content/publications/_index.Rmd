@@ -6,19 +6,14 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
  *** 
  
-**Rummel, A.D.**, Sierra, M.M., Quinn, B.L., Swartz, S.M., 2023. Hair, there and everywhere: A comparison of bat wing sensory hair distribution. The Anatomical Record 1–12. [https://doi.org/10.1002/ar.25176](https://doi.org/10.1002/ar.25176)
-[Download paper here](/files/Rummel_etal_2023_AR.pdf)
+**Rummel, A.D.**, Sierra, M.M., Quinn, B.L., Swartz, S.M., 2023. Hair, there and everywhere: A comparison of bat wing sensory hair distribution. The Anatomical Record 1–12. [https://doi.org/10.1002/ar.25176](https://doi.org/10.1002/ar.25176). [Download paper here](/files/Rummel_etal_2023_AR.pdf)
+
+**Rummel, A.D.**, Swartz, S.M., Marsh, R.L., 2023. Thermal stability of contractile proteins in bat wing muscles explains differences in temperature dependence of whole muscle shortening velocity. Physiological and Biochemical Zoology 722449. [https://doi.org/10.1086/722449](https://doi.org/10.1086/722449). [Download paper here](/files/Rummel_etal_2023_PBZ.pdf)
+
+Grider‐Potter, N., **Rummel, A.D.**, 2022. Dietary influences on head and neck ranges of motion in neotropical bats. Journal of Zoology jzo.13011. [https://doi.org/10.1111/jzo.13011](https://doi.org/10.1111/jzo.13011). [Download paper here](/files/Grider‐Potter_Rummel_2022_zoology.pdf)
 <br>
 
-**Rummel, A.D.**, Swartz, S.M., Marsh, R.L., 2023. Thermal stability of contractile proteins in bat wing muscles explains differences in temperature dependence of whole muscle shortening velocity. Physiological and Biochemical Zoology. [https://doi.org/10.1086/722449](https://doi.org/10.1086/722449)
-[Download paper here](/files/Rummel_etal_2023_PBZ.pdf)
-<br>
-
-Grider‐Potter, N., **Rummel, A.D.**, 2022. Dietary influences on head and neck ranges of motion in neotropical bats. Journal of Zoology jzo.13011. [https://doi.org/10.1111/jzo.13011](https://doi.org/10.1111/jzo.13011)
-[Download paper here](/files/Grider‐Potter_Rummel_2022_zoology.pdf)
-<br>
-
-**Rummel, A.D.**, Swartz, S.M., Marsh, R.L., Faure, P.A., 2022. A comparison of thermal sensitivities of wing muscle contractile properties from a temperate and tropical bat species. Journal of Experimental Biology jeb.243987. [https://doi.org/10.1242/jeb.243987](https://doi.org/10.1242/jeb.243987).
+**Rummel, A.D.**, Swartz, S.M., Marsh, R.L., Faure, P.A., 2022. A comparison of thermal sensitivities of wing muscle contractile properties from a temperate and tropical bat species. Journal of Experimental Biology jeb.243987. [https://doi.org/10.1242/jeb.243987](https://doi.org/10.1242/jeb.243987). 
 [Download paper here](/files/Rummel_etal_2022_JEB.pdf)
 <br>
 
@@ -30,5 +25,5 @@ Grider‐Potter, N., **Rummel, A.D.**, 2022. Dietary influences on head and neck
 [Download paper here](/files/Rummel_etal_2019_BioLet.pdf)
 <br>
 
-**Rummel, A.D.**, Swartz, S.M., Marsh, R.L., 2018. Low thermal dependence of the contractile properties of a wing muscle in the bat Carollia perspicillata. The Journal of Experimental Biology[jeb.180166](https://doi.org/10.1098/rsbl.2019.0530).  
+**Rummel, A.D.**, Swartz, S.M., Marsh, R.L., 2018. Low thermal dependence of the contractile properties of a wing muscle in the bat Carollia perspicillata. The Journal of Experimental Biology [jeb.180166](https://doi.org/10.1098/rsbl.2019.0530).  
 [Download paper here](/files/Rummel_etal_2018_JEB.pdf)  
