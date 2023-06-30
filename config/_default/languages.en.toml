@@ -5,7 +5,7 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Andrea Rummel"
+title = ""
 logo = "img/ept_310x310.png"
 #description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Andrea Rummel"
   image = "img/profile.png"
-  headline = "Integrative physiologist"
-  bio = "NSF Postdoctoral Fellow in Biology"
+  headline = "Integrative physiology"
+  bio = ""
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },

@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 description: "Research projects"
 ---
 
@@ -23,9 +23,9 @@ Bats are the only mammals capable of powered flight and find themselves in a uni
 
 <h3>Adaptation in response to urban heat islands</h3>
 
-<img src="/images/fieldcrested.png" style="height: 527px; width: 351px; float: left; margin-right: 15px; margin-bottom: 30px; margin-top: 0px">
+<img src="/images/greenanole.jpg" style="height: 343px; width: 457.5px; float: left; margin-right: 15px; margin-bottom: 30px; margin-top: 0px">
 
-Ectotherms do not maintain body temperatures physiologically and thus are more susceptible to changes in environmental temperature. I am interested in understanding how directional thermal change impacts anoles at subcritical temperatures–how are they adapting to warmer, but not lethal, temperatures? My current work integrates experimental data on the effects of temperature on crested anole locomotor performance and muscle contractile function with transcriptomic data to characterize the nature and mechanism of thermal adaptation in the locomotor system. 
+Ectotherms do not maintain body temperatures physiologically and thus are more susceptible to changes in environmental temperature. I am interested in understanding how directional thermal change impacts anoles at subcritical temperatures–how are they adapting to warmer, but not lethal, temperatures? Working with green and brown anoles in and around Houston, this project integrates experimental data on the effects of temperature on locomotor performance and muscle contractile function with transcriptomic data to characterize the nature and mechanism of thermal adaptation in the locomotor system. 
 
 
 

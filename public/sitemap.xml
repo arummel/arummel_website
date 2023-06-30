@@ -85,6 +85,14 @@
   
     
       <url>
+            <loc>/research/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>/about/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -110,14 +118,6 @@
     
       <url>
             <loc>/publications/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/research/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
