@@ -5,6 +5,8 @@ description: "publications"
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=iU1wzqQAAAAJ&hl=en&oi=ao) profile. 
 
  *** 
+
+**Rummel, A.D.**, Sheehy E.T., Schachner, E.R., and Hedrick, B.P. Sample Size And Geometric Morphometrics Methodology Impact The Evaluation of Morphological Variation. Integrative Organismal Biology, January 22, 2024, obae002. [https://doi.org/10.1093/iob/obae002](https://doi.org/10.1093/iob/obae002). [Download paper here](/files/Rummel_etal_2024_IOB.pdf)
  
 **Rummel, A.D.**, Sierra, M.M., Quinn, B.L., Swartz, S.M., 2023. Hair, there and everywhere: A comparison of bat wing sensory hair distribution. The Anatomical Record 1–12. [https://doi.org/10.1002/ar.25176](https://doi.org/10.1002/ar.25176). [Download paper here](/files/Rummel_etal_2023_AR.pdf)
 

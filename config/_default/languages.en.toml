@@ -13,8 +13,8 @@ logo = "img/ept_310x310.png"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "Andrea Rummel"
-  image = "img/profile.png"
+  name = "Rummel Lab"
+  image = ""
   headline = "Integrative physiology"
   bio = ""
   # links = [

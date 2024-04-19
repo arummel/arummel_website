@@ -1,11 +1,11 @@
 ---
-title: "Andrea Rummel, Ph.D."
+title: "Rummel Lab"
 description: "Integrative physiologist at Rice University"
 ---
 
-I'm a comparative physiologist, broadly interested in the physiology and mechanics of animal movement, particularly how they respond over various timescales to thermal and other environmental variation. 
+<!-- the title is actually determined by the languages.en.toml file [author] section -->
 
-**The Rummel Lab is opening at Rice University this summer** and I am recruiting Ph.D. students to begin in Rice's [EEB program](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) in fall of 2024. If you are interested in applying this fall, please email me! 
+**The Rummel Lab at Rice University** is recruiting Ph.D. students to begin in our [EEB program](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) in fall of 2025. If you are interested in applying to work with us, please email me! 
 
 <h3>Contact</h3>
 
