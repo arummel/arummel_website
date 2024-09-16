@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Research"
 description: "Research projects"
 ---
 
@@ -10,8 +10,6 @@ description: "Research projects"
 {% endfor %}
 
 -->
-
-<h1> Research </h1>
 
 The Rummel Lab is interested broadly in locomotor physiology and biomechanics, and the effect of temperature and other environmental conditions on animal movement. We love bats but are interested in other small vertebrates like anole lizards. 
 

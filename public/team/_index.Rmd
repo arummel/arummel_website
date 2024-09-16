@@ -14,8 +14,8 @@ I'm a comparative physiologist, broadly interested in the physiology and mechani
 <br>
 <br>
 
-<h3>Alexandria Tennant, Research Specialist</h3>
-**Incoming Graduate Student, Fall 2024**
+<h3>Alexandria Tennant</h3>
+**Ph.D. Student**
 
 <img src="/images/AT.jpg" style="height: 250px; width: 260px; float: left; margin-right: 15px; margin-bottom: 30px; margin-top: 0px">
 
@@ -27,5 +27,8 @@ Alexandria has a background in thoracic oncology nursing and applies her foundat
 
 
 <h3>Kate Manges Douglas</h3>
-**Incoming Graduate Student, Fall 2024**
+**Ph.D. Student**
 
+<img src="/images/KMG.jpg" style="height: 279px; width: 250px; float: left; margin-right: 15px; margin-bottom: 30px; margin-top: 0px">
+
+Kate has a background in evolutionary biology with a focus on sexual selection/conflict, specifically on the function of the baculum. She is interested in exploring differential thermoregulatory strategies, especially torpor, among natural and urban populations of bats. Kate is also interested in studying the mechanics of flight and its associated structures, like the sensory hairs found on wings.
