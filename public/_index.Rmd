@@ -1,11 +1,13 @@
 ---
 title: "Rummel Lab"
-description: "Integrative physiologist at Rice University"
+description: ""
 ---
 
 <!-- the title is actually determined by the languages.en.toml file [author] section -->
 
-**The Rummel Lab at Rice University** is recruiting Ph.D. students to begin in our [EEB program](https://biosciences.rice.edu/ecology-and-evolutionary-biology-graduate-program) in fall of 2025. If you are interested in applying to work with us, please email me! 
+<h3>**The Rummel Lab has a new website!** </h3>
+
+Please visit us at [rummellab.com](https://rummellab.com/)
 
 <h3>Contact</h3>
 

@@ -16,23 +16,23 @@
 #  weight = 10
 #  url = "/about"
 
-[[main]]
-  name = "Research"
-  pageRef = "research"
-  weight = 20
-  url = "/research"
+#[[main]]
+#  name = "Research"
+#  pageRef = "research"
+#  weight = 20
+#  url = "/research"
 
-[[main]]
-  name = "Team"
-  pageRef = "team"
-  weight = 20
-  url = "/team"
-
-[[main]]
-  name = "Publications"
-  pageRef = "publications"
-  weight = 30
-  url = "/publications"
+#[[main]]
+#  name = "Team"
+#  pageRef = "team"
+#  weight = 20
+#  url = "/team"
+#
+#[[main]]
+#  name = "Publications"
+#  pageRef = "publications"
+#  weight = 30
+#  url = "/publications"
 
 #[[main]]
 #  name = "CV"

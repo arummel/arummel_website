@@ -1,13 +1,13 @@
 ---
-title: "About"
+title: ""
 description: ""
 ---
 
-<img src="/images/field_crested.jpg" style="height: 360px; width: 240px; float: right; margin-left: 15px; margin-bottom: 30px; margin-top: 0px">
+<h3>**The Rummel Lab has a new website!**</h3>
 
-I'm a comparative physiologist, broadly interested in how temperature and ecology affect the physiology and mechanics of animal movement. 
+<br>
 
-The Rummel Lab is opening at Rice University this summer. I am recruiting Ph.D. students to begin in Rice's EEB program in fall of 2024. If you are interested, please email me! 
+Please visit us at [rummellab.com](https://rummellab.com/)
 
 <h3>Contact</h3>
 
